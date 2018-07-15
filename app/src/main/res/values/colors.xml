@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#DB3236</color>
+    <color name="colorPrimaryDark">#DB3236</color>
+    <color name="colorAccent">#000</color>
+
+    <color name="semi_transparent_black">#90000000</color>
+    <color name="colorBackground">#413e4f</color>
+    <color name="colorText">#FFFFFF</color>
+    <color name="colorTextHint">#51d8c7</color>
+    <color name="colorWhite">#FFFFFF</color>
+
+    <color name="colorLightGrey">#F5F5F5</color>
+</resources>
